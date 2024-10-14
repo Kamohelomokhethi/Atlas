@@ -13,3 +13,5 @@ Used python version 3.10 later versions may need you to install setuptools,, i t
 and im always open to suggestions
 
 this version 0.1 so version 0.2 will come with gemini or openai api
+
+please run cmd as admin to run this code... windows restrict certain directories unless a program is run with elevated privileges.
