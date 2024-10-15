@@ -1,10 +1,10 @@
 
-Viper is a compact AI assistant designed to streamline your Windows experience. This intelligent tool simplifies everyday tasks on your PC, leveraging the power of voice recognition.
+Atlas is a compact AI assistant designed to streamline your Windows experience. This intelligent tool simplifies everyday tasks on your PC, leveraging the power of voice recognition.
 Effortless Setup and Execution
 Getting started with Atlas is a breeze. Simply install the required dependencies using the following command in your command prompt:
-
-# pip install -r requirements.txt
-
+# 
+pip install -r requirements.txt
+# 
 Once the dependencies are installed, navigate to the project directory and execute the main.py file to launch Viper.
 Compatibility and Flexibility
 Atlas is optimized for Python 3.10. However, for users running later versions (3.11 or above), installing setuptools might be necessary. Additionally, some modules were removed in Python 3.12. If you encounter any compatibility issues, feel free to reach out for assistance.
