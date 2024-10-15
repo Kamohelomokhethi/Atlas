@@ -10,7 +10,7 @@ Compatibility and Flexibility
 Atlas is optimized for Python 3.10. However, for users running later versions (3.11 or above), installing setuptools might be necessary. Additionally, some modules were removed in Python 3.12. If you encounter any compatibility issues, feel free to reach out for assistance.
 Continuous Improvement
 #
-This initial release (version 0.1) lays the foundation for future enhancements. We are actively working on integrating either Gemini or OpenAI APIs in version 0.2, further expanding Viper's capabilities.
+This initial release (version 0.1) lays the foundation for future enhancements. We are actively working on integrating either Gemini or OpenAI APIs in version 0.2, further expanding Atlas's capabilities.
 
 # 
 Administrator Privileges for Enhanced Functionality
