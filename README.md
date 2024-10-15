@@ -17,4 +17,4 @@ Administrator Privileges for Enhanced Functionality
 To ensure unhindered access to essential directories, please run the command prompt with administrator privileges. Windows enforces restrictions on specific locations, and elevated privileges allow Viper to operate at its full potential.
 
 # Welcome Your Feedback!
-We are constantly striving to improve Viper. Your suggestions are always valued. Please feel free to share your thoughts and help us shape the future of this innovative AI assistant.
+We are constantly striving to improve Atlas. Your suggestions are always valued. Please feel free to share your thoughts and help us shape the future of this innovative AI assistant.
